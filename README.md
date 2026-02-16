@@ -2,6 +2,13 @@
 
 Chat with your documents (PDF, DOCX, TXT, Markdown) using Claude and LangChain. Built with FastAPI, Streamlit, and FAISS.
 
+## Display
+
+![Interface](demo/interface.jpeg)
+![Summary of a Document](demo/summary_of_the_doc.jpeg)
+
+For more, check out the `demo/` folder.
+
 ## Features
 
 - **Multi-format support** — Upload PDF, DOCX, TXT, and Markdown files
